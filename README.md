@@ -9,16 +9,17 @@ A practice project to explore computer vision and desktop automation using Pytho
 - License validation with Fernet encryption + HMAC
 
 ## Tech Stack
-- Python 3
-- OpenCV, MSS, NumPy (image processing & screen capture)
-- PyAutoGUI, Pynput (automation & hotkeys)
-- Tkinter (GUI)
-- pytesseract (OCR)
-- threading (multithreading)
-- JSON, OS, sys, platform, uuid (configuration & system info)
-- Cryptography (Fernet, HMAC, hashlib, base64)
-- datetime, time (scheduling & expiry check)
-- webbrowser (open links)
+- Python 3  
+- OpenCV, MSS, NumPy (image processing & screen capture)  
+- PyAutoGUI, Pynput (automation & hotkeys)  
+- Tkinter, CustomTkinter (GUI)  
+- EasyOCR (OCR text recognition)  
+- threading (multithreading)  
+- JSON, OS, sys, platform, uuid (configuration & system info)  
+- Cryptography (Fernet, HMAC, hashlib, base64)  
+- datetime, time (scheduling & expiry check)  
+- webbrowser (open links)  
+- requests (Discord webhook integration)  
 
 ## Purpose
 This project is for **learning purposes only**.  
